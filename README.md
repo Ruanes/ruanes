@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Working on Minecraft Remodeled and various misc webapp projects<br>🌱 I’m currently learning<br>Currently working on Python skills and various js frameworks
+🔭 I’m currently working on<br>Working on Minecraft Remodeled 🌍, Snowbot ❄️ and various misc webapp projects<br>🌱 I’m currently learning<br>Trying to learn Blender for 3D modeling and Kotlin for app development🧑‍🔬
 
 
 ## 🌐 Socials:
